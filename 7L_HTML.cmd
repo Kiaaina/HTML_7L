@@ -1,7 +1,7 @@
 cd /
 :top
 cls
-mod con: lines=6 cols=30
+mod con: lines=3 cols=20
 title "HTML_7L"
 @cecho off & cecho {04}
 @set "HTML=https://htmlpreview.github.io/?https://github.com/Kiaaina/HTML_7L/blob/master/7L_HTML.html"
