@@ -4,7 +4,7 @@ cls
 mod con: lines=3 cols=20
 title "HTML_7L"
 @cecho off & cecho {04}
-@set "HTML=https://htmlpreview.github.io/?https://github.com/Kiaaina/HTML_7L/blob/master/7L_HTML.html"
+@set "HTML=https://htmlpreview.github.io/?https://github.com/Kiaaina/HTML_7L/blob/main/7L_HTML.html"
 
 start "%HTML%"
 goto 7L
